@@ -1,0 +1,23 @@
+/* Basic reset */
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+}
+
+/* Table styles */
+table {
+    width: 50%;
+    border-collapse: collapse;
+    background-color: black;/* Remove space between borders */
+}
+
+th, td {
+    padding: 12px; /* Add padding for cells */
+    text-align: center; /* Align text to the left */
+    border: 1px solid #A0A1FF; /* Light gray border */
+}
+
+th {
+    background-color: black; /* Light gray background for headers */
+}
+}
